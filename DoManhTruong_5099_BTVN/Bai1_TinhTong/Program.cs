@@ -8,7 +8,7 @@ namespace Bai1_TinhTong
 {
     class Program
     {
-        static int Nhap()
+        public static int Nhap()
         {
             int n;
             Console.OutputEncoding = Encoding.UTF8;
@@ -16,7 +16,7 @@ namespace Bai1_TinhTong
             n = Convert.ToInt32(Console.ReadLine());
             return n;
         }
-        static int Tong(int n)
+        public static int Tong(int n)
         {
             int s = 0;
             for (int i = 1; i <= n; i++)

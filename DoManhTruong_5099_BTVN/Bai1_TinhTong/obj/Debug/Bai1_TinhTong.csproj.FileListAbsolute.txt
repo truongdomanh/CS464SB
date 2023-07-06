@@ -4,3 +4,9 @@ D:\CS464SA\DoManhTruong_5099_BTVN\Bai1_TinhTong\bin\Debug\Bai1_TinhTong.exe
 D:\CS464SA\DoManhTruong_5099_BTVN\Bai1_TinhTong\bin\Debug\Bai1_TinhTong.pdb
 D:\CS464SA\DoManhTruong_5099_BTVN\Bai1_TinhTong\obj\Debug\Bai1_TinhTong.exe
 D:\CS464SA\DoManhTruong_5099_BTVN\Bai1_TinhTong\obj\Debug\Bai1_TinhTong.pdb
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\bin\Debug\Bai1_TinhTong.exe.config
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\obj\Debug\Bai1_TinhTong.exe
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\obj\Debug\Bai1_TinhTong.pdb
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\bin\Debug\Bai1_TinhTong.exe
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\bin\Debug\Bai1_TinhTong.pdb
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai1_TinhTong\obj\Debug\Bai1_TinhTong.csprojResolveAssemblyReference.cache

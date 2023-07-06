@@ -1,0 +1,6 @@
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\bin\Debug\Bai2_TinhTongBinhPhuong.exe.config
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\bin\Debug\Bai2_TinhTongBinhPhuong.exe
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\bin\Debug\Bai2_TinhTongBinhPhuong.pdb
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\obj\Debug\Bai2_TinhTongBinhPhuong.csprojResolveAssemblyReference.cache
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\obj\Debug\Bai2_TinhTongBinhPhuong.exe
+D:\CS464SB\DoManhTruong_5099_BTVN\Bai2_TinhTongBinhPhuong\obj\Debug\Bai2_TinhTongBinhPhuong.pdb
